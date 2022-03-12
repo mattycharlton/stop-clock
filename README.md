@@ -2,6 +2,8 @@
 
 A very basic Stop Clock built using TypeScript, React & Styled Components. Using Vite as the front-end build tool.
 
+Demo Url: https://sleepy-lewin-397d70.netlify.app
+
 ## How to run on localhost
 
 First install dependencies:
