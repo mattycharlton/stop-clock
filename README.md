@@ -12,7 +12,7 @@ First install dependencies:
 yarn
 ```
 
-To run in dev mode mode:
+To run in dev mode:
 
 ```sh
 yarn dev
